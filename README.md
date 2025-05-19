@@ -44,14 +44,7 @@ A web app that lets you search for music and gives back a list of results from t
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 
 
-### Connect with me:
 
-<p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/guillermoartiaga/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillermoartiaga/" 
-        height="30" width="40" />
-    </a>
-</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guillermo-aa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
