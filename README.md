@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guillermo 
+# Hello there! 
 
 ## About me
 I'm a software full-stack developer focused on building sleek, responsive web apps with JavaScript, especially using TypeScript, React, and Tailwind CSS. While I work full-stack, my passion lies in crafting beautiful, functional frontends where creativity meets code.
